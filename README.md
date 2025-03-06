@@ -63,7 +63,7 @@ Prizm node mod is a modified fronted part of the node. It is writen on JS used r
 * [Java 8  Windows](https://tech.prizm.vip/files/JavaWindows8u221.zip)
 * [Java 8  Linux](https://tech.prizm.vip/files/JavaLinux8u221.zip)
 * [Java 8  Macos](https://tech.prizm.vip/files/JavaMacOS8u221.zip)
-* Official blockchain snapshot. Height:2797717 | 28.11.23  [.zip](https://tech.prizm.vip/files/prizm_db.zip)
+* Official blockchain snapshot. Height:3416785 | 7.03.25  [.zip](https://tech.prizm.vip/files/prizm_db.zip)
 * [Paracalc ecxel from enthusiasts v.5.8](https://tech.prizm.vip/files/PARACALC_5.8.xlsm).
 
 
