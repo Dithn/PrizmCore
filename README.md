@@ -49,6 +49,7 @@ Prizm node mod is a modified fronted part of the node. It is writen on JS used r
 ### Basic usage resources
 
 * [Online Wallet](https://wallet.prizm.vip/) v 1.3
+* [Mirror Online Wallet](https://mirror-prizm.vip/) v 1.2
 * [Blockchain explorer](https://blockchain.prizm.vip/)
 * [Web Prizm Core](https://core.prizm.vip/)
 * [Prizm TOOL visualizer](https://tool-prizm.space/)
