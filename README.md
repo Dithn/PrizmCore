@@ -70,4 +70,4 @@ Prizm node mod is a modified fronted part of the node. It is writen on JS used r
 * [Paracalc ecxel from enthusiasts v.5.9](https://tech.prizm.vip/files/PARACALC_5.9.xlsm).
 
 
-Attention! We don't include PrizmEngine.java in current repository for security reasons and for preventing creating forks by anyone. This file will be published later.
+Attention! We don't include PrizmEngine.java in current repository for security reasons and for preventing creating forks by anyone. This file will be published on May 5, 2025.
